@@ -68,8 +68,12 @@
 ![управление_заказами](https://github.com/ElIvanova7/practice/assets/174890032/238a3a2c-95d4-4250-a76b-c11e82347a28)
 
 
+
+
 * Изменение персональных данных:
 ![обновление_данных](https://github.com/ElIvanova7/practice/assets/174890032/73f3bb19-d2f3-4b9d-a5fd-c63a77c13451)
+
+
 
 
 * Оплата заказа:
