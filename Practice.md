@@ -60,12 +60,7 @@
 
 **Моделирование бизнес-процесса**
 Для моделирования бизнес-процесса создания заказа использовалась нотация BPMN. 
-![image](https://github.com/ElIvanova7/practice/assets/174890032/aa440811-fca9-42e1-a49b-11b9c398f895)
-
-
-
-
-
+![BPMN_схема](https://github.com/ElIvanova7/practice/assets/174890032/84888c78-94c9-4392-aaff-6567eefb1942)
 
 
 
